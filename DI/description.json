@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "description": "Le parc du Thabor fait partie des lieux incontournables à visiter à Rennes. Aménagé dans sa forme actuelle il y a plus de 150 ans, en 1868, il s’étend sur 10 hectares avec un jardin à la française, un parc à l’anglaise, une roseraie, un jardin botanique, un café avec terrasse… En toutes saisons, il est agréable de s’y balader pour prendre un grand bol d’air et de verdure.",
+    "coordonnees": [48.11457033542664, -1.6695152414860739]
+},
+ {
+     "id": 2,
+    "description": "En 1938, dans les quartiers nord-est de Rennes est aménagé un parc à destination des enfants agrémenté de plates-bandes de rosiers, buis boules et tilleuls taillés en rideaux. Un belvédère, dont les portiques en béton rappellent les formes géométriques des années 1930, sert de support aux rosiers grimpants.",
+    "coordonnees": [48.12293019308621, -1.6554479876928914]
+},
+ {
+     "id": 3,
+    "description": "Les Champs Libres sont un établissement culturel rennais. Ouverts toute l'année, ils regroupent une Bibliothèque, le Musée de Bretagne, l'Espace des sciences, des espaces d'expositions et de rencontres.",
+    "coordonnees": [48.105279286459314, -1.6746349048033746]
+},
+ {
+     "id": 4,
+    "description": "Situé dans les Champs Libres, à Rennes, le Musée de Bretagne est dédié à la société bretonne et ses évolutions. Son exposition permanente gratuite et ses nombreux événements thématiques présentent un patrimoine populaire unique, constitué d’objets et témoignages. Grâce à la collecte et au don, le Musée invite chacun à participer à la création et à la transmission d’une mémoire vivante, sans cesse renouvelée.",
+    "coordonnees": [48.10484226366697, -1.6747851303677959]
+},
+ {
+     "id": 5,
+    "description": "Le Musée des beaux-arts de Rennes (MBAR) propose une collection d’art couvrant toutes les époques, de l’Antiquité à nos jours. Le musée dispose d’une collection très complète d’objets archéologiques (bronzes, céramiques et sculptures) des civilisations égyptiennes, étrusques grecques et romaines. Le cabinet des dessins italiens est à voir absolument. Issu en grande partie du cabinet de curiosités de Christophe-Paul de Robien, ce fonds regroupe des dessins prestigieux de Leonard de Vinci, Dürer, Botticelli, Donatello, Michel-Ange…",
+    "coordonnees": [48.10993414043338, -1.6749119726158]
+},
+ {
+     "id": 6,
+    "description": " L’Ecomusée est situé au sud de Rennes, entre ville et campagne, dans l’ancienne ferme de La Bintinais. Le domaine de 19 hectares est un voyage grandeur-nature dans l’histoire agricole de la Bretagne. Une ferme vivante avec un cheptel de 19 races anciennes (de la poule au cheval de trait), un jardin, un verger… L’Ecomusée est un véritable parc agronomique où sont conservées d’anciennes variétés végétales. Les cultures traditionnelles comme le lin, le chanvre et le sarrasin cohabitent avec des cultures plus récentes. L’originalité de l’Écomusée est de faire découvrir 5 siècles d’histoire en montrant les évolutions d’une grande ferme du pays de Rennes sous des angles différents : vie quotidienne, outils, patrimoine et paysages, savoir-faire et traditions. Chacun peut visiter le site à son rythme, sur un mode interactif grâce aux maquettes, vidéos et jeux qui ponctuent le parcours.",
+    "coordonnees": [48.07789681492641, -1.6663759619029728]
+},
+ {
+     "id": 7,
+    "description": " Depuis 2012, le Frac Bretagne est installé dans un bâtiment imaginé par l’architecte et urbaniste Odile Decq. L’espace de 5000 mètres carrés est consacré à l’art contemporain et s’adresse à tous les publics. La collection, qui compte plus de 4800 œuvres de près de 600 artistes, est articulée autour de grands thèmes : l’abstraction, les relations de l’art avec la nature, le rôle des artistes et des œuvres, l’artiste comme témoin de son temps… Le Frac met aussi à l’honneur des artistes bretons comme Gilles Mahé et propose des ensembles monographiques très complets sur des artistes de renom tels Ian Baxter, Raymond Hains, Christophe Cuzin, ou encore Julien Prévieux.",
+    "coordonnees": [48.13084271871596, -1.695667934804219]
+},
+ {
+     "id": 8,
+    "description": " La Criée est un équipement culturel de la ville, un lieu d’exposition implanté en plein centre, dans un bâtiment jouxtant les Halles Centrales. Impossible de découvrir la ville sans pousser les portes de la Criée… Depuis 2013, ce centre d’art contemporain propose un cycle d’exposition de 3 ans, inspiré par Raymond Queneau : après Courir les rues (2013 – 2014), Battre la campagne (2014-2015), l’heure est venue de Fendre les flots (2015-2016). Cette manière de raconter l’art « permet d’explorer trois horizons d’actions et trois imaginaires concomitants : l’espace urbain, l’espace rural et l’espace littoral ». Chaque saison est élaborée avec un(e) artiste associé(e).",
+    "coordonnees": [48.111170705875956, -1.6796340361452753]
+},
+ {
+     "id": 9,
+    "description": " « Le Central Park rennais » est un immense terrain de jeu pour les sportifs, les familles, les adeptes de marche nordique et les amoureux de verdure. Le Parc des Gayeulles est tout simplement le plus grand de la ville, celui où on peut pratiquer le plus d’activité. Accrobranche, ferme pédagogique, piscine, patinoire, équipements sportifs… il y a de quoi faire. Des espaces de pique-nique et les barbecues en libre-service en font aussi un lieu de convivialité pour tous les habitants du quartier.",
+    "coordonnees": [48.13475476729538, -1.6472731055305219]
+},
+ {
+     "id": 10,
+    "description": " Aménagées en 2019 entre le Canal Saint-Martin et un bras naturel de la rivière Ille, les Prairies Saint-Martin forment à la fois un espace de respiration pour les citadins et un ilot de fraîcheur bienvenu l’été. Un réservoir de nature et de biodiversité, un espace de détente et de sports avec une drôle de butte des loisirs… Les prairies sont un paradis pour les promeneurs et joggeurs, à seulement deux pas du centre. Jouer au palet, à la pétanque, pique-niquer, observer les oiseaux, escalader les structures de jeu, il y a toujours une bonne raison d’aller aux prairies.",
+    "coordonnees": [48.12340146651766, -1.6723520217613004]
+},
+ {
+     "id": 11,
+    "description": " L’origine de la coulée verte est une drôle d’histoire. Le projet initial, dans les années 1980, était d’y faire une route pénétrante pour amener la circulation automobile vers le centre de la ville depuis la rocade nord. Face à la fronde des riverains, c’est finalement une coulée verte qui est aménagée pour le plus grand bonheur des runners. En la suivant depuis les quartiers de Maurepas-Patton, vous arriverez directement sur les prairies Saint-Martin.",
+    "coordonnees": [48.13307301615423, -1.665764906452702]
+},
+ {
+     "id": 12,
+    "description": " Dernier né des parcs rennais, le parc champêtre de Beauregard-Quincé (à ne pas confondre avec le parc de Beauregard tout proche) a été aménagé sur la lisière entre la ville et la campagne, dans le respect de son identité bocagère. Autour de la Ferme de Quincé où se trouvent des activités maraîchères, un tiers lieu agricole et une guinguette accueillent les visiteurs l’été. Le parc a été aménagé en 2023 avec des promenades piétonnes et cyclistes et des jeux en bois pour enfants sur le thème des animaux des zones humides.",
+    "coordonnees": [48.13421196189335, -1.7047319975342305]
+},
+ {
+     "id": 13,
+    "description": "La Ville de Rennes est gestionnaire des politiques éducation, culture, patrimoine, solidarités, citoyenneté, espaces publics, développement urbain et sport",
+    "coordonnees": [48.11387728262182, -1.6810304785216859]
+},
+ {
+     "id": 14,
+    "description": "Le Landry est un espace vert de 8 hectares au centre de la ville, où l'on peut cueillir des fruits, faire du sport ou s'amuser.",
+    "coordonnees": [48.097383491685385, -1.6444774400681201]
+}
+]
+
+
