@@ -73,17 +73,60 @@ void loop()
   int data_x = analogRead(X);
   int data_y = analogRead(Y);
  
-  if (data_bp < 100) 
+  String posX;
+  if (data_x < 340) 
   {
-	  data_bp = 0;
-  }
+    posX = "gauche";
+  } 
+  if (data_x > 680) 
+  {
+    posX = "droite";
+  } 
+
+  String posY;
+  if (data_y < 340) 
+  {
+    posY = "bas";
+  } 
+  if (data_y > 680) 
+  {
+    posY = "haut";
+  } 
+
+  String label;
+  if (posX == "milieu" && posY == "milieu") 
+  {
+    label = "milieu";
+  } 
+  else if (posX == "milieu") 
+  {
+    label = "milieu en " + posY;
+  } 
+  else if (posY == "milieu") 
+  {
+    label = "a " + posX + " au milieu";
+  } 
   else 
   {
-	  data_bp = 1;
+    label = "a " + posX + " en " + posY;
+  }
+
+  Serial.println(label);
+
+  if (data_bp < 500) 
+  {
+    
   } 
+  else 
+  {
+    Serial.println("NON APPUYE");
+  }
   
   // Capteur Temperature
   int data_temp = analogRead(TEMP); 
+  float V_Temp = data_temp * 5.0 / 1023.0;
+  float Vout   = V_Temp / 11.0;
+  float TEMP_C = Vout * 100.0;
 
   // Capteur Ultrason 
   digitalWrite(TRIGGER, HIGH);                    
@@ -108,7 +151,7 @@ void loop()
   Serial.print("joystick,bp,");
   Serial.println(data_bp);
   Serial.print("temperature,");
-  Serial.println(data_temp);
+  Serial.println(TEMP_C);
   Serial.print("ultrason,");
   Serial.println(data_capus);
   Serial.print("son,");

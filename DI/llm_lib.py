@@ -12,7 +12,7 @@ class ThemeAnalysis(BaseModel):
     is_relevant: bool
     explanation: str
 
-    
+
 def check_server(server):
     try:
         r = requests.get(server+'/models', timeout=3)
