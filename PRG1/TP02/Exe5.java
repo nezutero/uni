@@ -1,5 +1,3 @@
-package fr.istic.prg1.tp02;
-
 import java.util.Scanner;
 
 public class Exe5 {
