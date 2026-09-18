@@ -1,5 +1,3 @@
-package fr.istic.prg1.tp03;
-
 import java.util.Random;
 import java.util.Scanner;
 

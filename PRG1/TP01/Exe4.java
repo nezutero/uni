@@ -1,5 +1,3 @@
-package fr.istic.prg1.tp01;
-
 import java.util.Scanner;
 
 // Importer ici les bibliothèques nécessaires aux scanners

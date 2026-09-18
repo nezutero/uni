@@ -1,5 +1,3 @@
-package fr.istic.prg1.tp01;
-
 // (Variable non declaree) :
 // Exe2.java:23: error: cannot find symbol
 

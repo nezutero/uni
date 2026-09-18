@@ -1,5 +1,3 @@
-package fr.istic.prg1.tp01;
-
 // # 3. Les erreurs :
 // 1. Exe1.java:5: error: ';' expected
 // 2. Exe1.java:11: error: package system does not exist 
