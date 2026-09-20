@@ -6,10 +6,18 @@ public class Exe3 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Entrez un nombre : ");
-        // int n = scan.nextInt();
+        int n = scan.nextInt();
+        int sum = 0;
         for (int i = 1; i <= n; i++) {
-            System.out.print(i + " + ");
+            sum += i;
+            if (i == n) {
+                System.out.printf("= %d", sum);
+            } else {
+                System.out.print(i + " + ");
+            }
         }
+        System.out.println();
         scan.close();
     }
 }
+

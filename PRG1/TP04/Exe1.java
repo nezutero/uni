@@ -1,5 +1,4 @@
 public class Exe1 {
-
     public static void main(String[] args) {
         int nbCol = 10;
         int nbLig = 4;
